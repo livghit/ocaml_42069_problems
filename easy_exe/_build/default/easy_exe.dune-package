@@ -1,0 +1,4 @@
+(lang dune 3.13)
+(name easy_exe)
+(sections (lib .) (bin ../../bin))
+(files (lib (META dune-package opam)) (bin (easy_exe)))

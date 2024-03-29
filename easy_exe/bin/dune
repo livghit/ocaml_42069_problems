@@ -1,0 +1,4 @@
+(executable
+ (public_name easy_exe)
+ (name main)
+ (libraries easy_exe))

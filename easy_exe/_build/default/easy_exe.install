@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/easy_exe/META"
+  "_build/install/default/lib/easy_exe/dune-package"
+  "_build/install/default/lib/easy_exe/opam"
+]
+bin: [
+  "_build/install/default/bin/easy_exe"
+]

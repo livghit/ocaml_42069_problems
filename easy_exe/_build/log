@@ -1,0 +1,23 @@
+# dune exec easy_exe
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/livghit/.cache/dune/db
+# Workspace root: /Users/livghit/Development/ocaml_42069_problems/easy_exe
+# Auto-detected concurrency: 10
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" :
+#            "/Users/livghit/Development/ocaml_42069_problems/easy_exe/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /Users/livghit/.opam/default/bin/ocamlc.opt -config > /var/folders/3v/shz47n6x69160mf690vsz31h0000gn/T/dune_6ebcdf_output
